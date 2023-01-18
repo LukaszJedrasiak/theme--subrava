@@ -1,0 +1,68 @@
+author: "Lukasz Jedrasiak"
+url: "https://www.jedrasiak.eu"
+source: "https://github.com/LukaszJedrasiak/theme--subrava"
+
+subrava--00:
+    hex: "#1a1a1a"
+    hsl: "0,0,10"
+    rgb: "26,26,26"
+subrava--01:
+    hex: "#333333"
+    hsl: "0,0,20"
+    rgb: "51,51,51"
+subrava--02:
+    hex: "#b3b3b3"
+    hsl: "0,0,70"
+    rgb: "179,179,179"
+subrava--03:
+    hex: "#e6e6e6"
+    hsl: "0,0,90"
+    rgb: "230,230,230"
+subrava--04:
+    hex: "#660900"
+    hsl: "5,100,20"
+    rgb: "102,9,0"
+subrava--05:
+    hex: "#ff7366"
+    hsl: "5,100,70"
+    rgb: "255,115,102"
+subrava--06:
+    hex: "#1a6600"
+    hsl: "105,100,20"
+    rgb: "26,102,0"
+subrava--07:
+    hex: "#8cff66"
+    hsl: "105,100,70"
+    rgb: "140,255,102"
+subrava--08:
+    hex: "#663c00"
+    hsl: "35,100,20"
+    rgb: "102,60,0"
+subrava--09:
+    hex: "#ffbf66"
+    hsl: "35,100,70"
+    rgb: "255,191,102"
+subrava--0A:
+    hex: "#003c66"
+    hsl: "205,100,20"
+    rgb: "0,60,102"
+subrava--0B:
+    hex: "#66bfff"
+    hsl: "205,100,70"
+    rgb: "102,191,255"
+subrava--0C:
+    hex: "#4d0066"
+    hsl: "285,100,20"
+    rgb: "77,0,102"
+subrava--0D:
+    hex: "#d966ff"
+    hsl: "285,100,70"
+    rgb: "217,102,255"
+subrava--0E:
+    hex: "#006633"
+    hsl: "150,100,20"
+    rgb: "0,102,51"
+subrava--0F:
+    hex: "#66ffb2"
+    hsl: "150,100,70"
+    rgb: "102,255,178"
