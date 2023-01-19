@@ -1,0 +1,24 @@
+name: "subrava mintty light"
+author: "Lukasz Jedrasiak"
+url: "https://www.jedrasiak.eu"
+source: "https://github.com/LukaszJedrasiak/theme--subrava"
+
+BackgroundColour=242,242,242
+ForegroundColour=38,38,38
+CursorColour=38,38,38
+Black=13,13,13
+BoldBlack=13,13,13
+BoldRed=214,31,31
+Red=214,31,31
+BoldGreen=69,120,17
+Green=69,120,17
+BoldYellow=161,92,23
+Yellow=161,92,23
+BoldBlue=28,112,196
+Blue=28,112,196
+BoldMagenta=145,63,228
+Magenta=145,63,228
+BoldCyan=17,120,120
+Cyan=17,120,120
+BoldWhite=242,242,242
+White=242,242,242
