@@ -2,22 +2,22 @@ author: "Lukasz Jedrasiak"
 url: "https://www.jedrasiak.eu"
 source: "https://github.com/LukaszJedrasiak/theme--subrava"
 
-BackgroundColour=38,38,38
-ForegroundColour=217,217,217
-CursorColour=217,217,217
+BackgroundColour=26,26,26
+ForegroundColour=230,230,230
+CursorColour=230,230,230
 Black=13,13,13
 BoldBlack=13,13,13
-BoldRed=233,99,99
+BoldRed=233,76,76
 Red=233,99,99
-BoldGreen=92,161,23
+BoldGreen=84,147,21
 Green=92,161,23
-BoldYellow=210,120,30
+BoldYellow=192,110,27
 Yellow=210,120,30
-BoldBlue=63,145,228
+BoldBlue=210,75,52
 Blue=63,145,228
-BoldMagenta=173,112,235
+BoldMagenta=166,99,233
 Magenta=173,112,235
-BoldCyan=22,156,156
+BoldCyan=21,147,147
 Cyan=22,156,156
 BoldWhite=242,242,242
 White=242,242,242
