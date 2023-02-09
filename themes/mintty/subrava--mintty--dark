@@ -8,7 +8,6 @@ ForegroundColour=230,230,230
 CursorColour=230,230,230
 Black=13,13,13
 BoldBlack=13,13,13
-<<<<<<< HEAD
 BoldRed=230,76,76
 Red=230,76,76
 BoldGreen=84,147,21
@@ -21,8 +20,5 @@ BoldMagenta=166,99,233
 Magenta=166,99,233
 BoldCyan=21,147,147
 Cyan=21,147,147
-=======
-
->>>>>>> 6f96ba1f05c54c23f2bbf94ffe2a3b175ae42c2f
 BoldWhite=242,242,242
 White=242,242,242
