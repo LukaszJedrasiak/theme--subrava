@@ -4,8 +4,8 @@ url: "https://www.jedrasiak.eu"
 source: "https://github.com/LukaszJedrasiak/theme--subrava"
 
 BackgroundColour=242,242,242
-ForegroundColour=38,38,38
-CursorColour=38,38,38
+ForegroundColour=26,26,26
+CursorColour=26,26,26
 Black=13,13,13
 BoldBlack=13,13,13
 BoldRed=214,31,31
